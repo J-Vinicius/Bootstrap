@@ -1,6 +1,6 @@
 # Cafeteria e Bistrô - Serenatto
 
-Prática Bootstrap 5 do Curso 
+Prática Bootstrap 5 do Curso [Bootstrap 5: novos recursos e práticas recomendadas de HTML, CSS e JavaScript da Alura](https://cursos.alura.com.br/course/bootstrap-5-novos-recursos-praticas-html-css-javascript)
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
